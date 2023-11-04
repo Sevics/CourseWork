@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: jogl-all.jar gluegen-rt.jar
+Main-Class: main.java.Main
